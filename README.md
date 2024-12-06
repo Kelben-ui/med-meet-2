@@ -1,1 +1,2 @@
-# med-meet-2
+# Med-Meet
+A health web application that links patients and doctors
